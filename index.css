@@ -26,6 +26,7 @@ body {
     border-radius: 20px;
     padding: 5px;
     /*390 * 390*/
+    /*transition = '1s liner'*/
 }
 
 .gameRow {
@@ -45,4 +46,7 @@ body {
     font-size: 35px;
     line-height: 90px;
     border-radius: 10px;
+
+    /*animation: infinite;*/
 }
+
